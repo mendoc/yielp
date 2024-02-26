@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yielp-dev-104946-authRole",
+      "UnauthRoleArn": "arn:aws:iam::609170532317:role/amplify-yielp-dev-104946-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::609170532317:role/amplify-yielp-dev-104946-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-yielp-dev-104946-deployment",
+      "UnauthRoleName": "amplify-yielp-dev-104946-unauthRole",
+      "StackName": "amplify-yielp-dev-104946",
+      "StackId": "arn:aws:cloudformation:eu-north-1:609170532317:stack/amplify-yielp-dev-104946/c2958050-d494-11ee-b466-0e3ad7594136",
+      "AmplifyAppId": "d2q094k25wox6t"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2q094k25wox6t",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "yielpafa7ec73": {}
+      }
+    }
+  }
+}
