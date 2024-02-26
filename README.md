@@ -1,2 +1,1 @@
-# yielp
-Un projet test pour tester AWS Amplify
+# aws-amplify-react
